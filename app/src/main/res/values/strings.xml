@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">世界游</string>
+    <string name="action_settings">设置</string>
+    <string name="action_settings_help">帮助</string>
+    <string name="action_settings_about">关于</string>
+    <string name="action_settings_feedback">反馈</string>
+    <string name="action_ar">AR景点浏览</string>
+    <string name="title_activity_main">首页</string>
+    <string name="title_home">我的</string>
+    <string name="title_dashboard">主页</string>
+    <string name="title_notifications">热门</string>
+    <string name="title_activity_map">地图</string>
+
+
+    <string name="demo_title_panorama">VR导航</string>
+    <string name="demo_title_coordinate">坐标转换</string>
+    <string name="demo_desc_pid">内景导航</string>
+    <string name="demo_desc_wgs84">通过大地坐标系(WGS84)获取全景</string>
+    <string name="demo_desc_gcj02">通过国测局加密坐标(GCJ02)获取全景</string>
+    <string name="demo_desc_geo">景区全景</string>
+    <string name="demo_desc_mercator">通过百度墨卡托坐标(BD09MC)获取全景</string>
+    <string name="demo_desc_uid_street">外景导航</string>
+    <string name="demo_desc_uid_interior">内景导航</string>
+    <string name="demo_desc_uid_street_customalbum">通过百度地图UID获取外景(自定义相册)</string>
+    <string name="demo_desc_marker">添加自定义标注到全景图</string>
+    <string name="demo_desc_other">其他全景参数设置</string>
+    <string name="demo_desc_coordinate_converter">高德, 腾讯, 谷歌坐标转换百度坐标</string>
+</resources>
